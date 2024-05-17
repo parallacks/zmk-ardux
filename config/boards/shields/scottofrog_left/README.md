@@ -1,3 +1,3 @@
-# Corne - Left
+# ScottoFrog - Left
 
-This directory contians the ARDUX implementation for the [corne](https://github.com/foostan/crkbd). *Both* 5 and 6 column varients are supported.
+This directory contians the ARDUX implementation for the [ScottoFrog](https://github.com/joe-scotto/scottokeebs/tree/main/ScottoFrog).
