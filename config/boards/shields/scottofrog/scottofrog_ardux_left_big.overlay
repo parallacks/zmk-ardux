@@ -6,6 +6,7 @@
 
 #include <dt-bindings/zmk/matrix_transform.h>
 
+
 / {
 	chosen {
 		zmk,kscan = &kscan0;
@@ -14,7 +15,7 @@
 
 	default_transform: keymap_transform_0 {
 		compatible = "zmk,matrix-transform";
-		columns = <6>;
+		columns = <7>;
 		rows = <4>;
 // | SW2  | SW3  | SW4  | SW5  | SW6  |
 // | SW8  | SW9  | SW10 | SW11 | SW12 |
